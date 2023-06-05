@@ -1,0 +1,13 @@
+p{
+    padding: 5px;
+    border-bottom: 1px dotted #888888;
+    max-width: 600px;
+    line-break: anywhere;
+}
+
+.searchInfo{
+    font-size: small;
+    color: #888888;
+}
+
+a.searchInfo:link{ color: #888888; }
