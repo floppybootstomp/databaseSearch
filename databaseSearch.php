@@ -119,7 +119,7 @@ function formatFileSize(&$rawSize){
 
 // formats IMDB link for entry
 function formatLink2(&$lnk){
-    $imdb = "<a class='searchInfo' href='https://".$lnk."' target='_blank'>IMDB</a>";
+    $imdb = "<a class='searchInfo' href='https://".$lnk."' target='_blank'>Link 2</a>";
     return $imdb;
 }
 
